@@ -23,7 +23,7 @@ check('all internal links resolve', [home,...pages].every(p=>p.sections.every(s=
 check('all related slugs resolve',pages.every(p=>p.relatedSlugs.every(s=>slugs.includes(s))));
 check('all navigation entries published',pages.every(p=>p.enabled&&p.navVisible));
 check('branded assets exist',['logo','cover','openGraph','favicon'].every(k=>existsSync(join(root,'public',site.assets[k]))));
-check('legacy analytics disabled',read('content/generated/integrations.json').gaMeasurementId===null);
+check('authorized GA4 measurement ID',read('content/generated/integrations.json').gaMeasurementId==='G-V1DJH444FE');
 check('original skin retained',readFileSync('config/skin.ts','utf8').includes('return "directory"'));
 console.log('CONTENT / ROUTE SOURCE CHECKS');
 for(let c of checks)console.log((c.pass?'PASS':'FAIL')+' '+c.name);
