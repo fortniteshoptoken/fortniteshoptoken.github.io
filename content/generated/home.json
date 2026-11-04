@@ -1,0 +1,266 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Fortnite Shop Token: How to Get Pirate Shop Access",
+  "description": "Learn what the Fortnite shop token unlocks, how to find Pirate Shop Access, what the odds mean, and when to activate your 14-day reward.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "TREASURE HUNTERS · NOVEMBER 2026",
+    "heading": "Fortnite Shop Token: Pirate Shop Access Guide",
+    "lead": "Pirate Shop Access is a rare Treasure Hunters chest reward in Fortnite. Players often call it a Fortnite Shop Token, Fortnite Item Shop Token, or Pirate Shop Token. It grants limited-time access to claim eligible V-Bucks Item Shop cosmetics; it does not deposit V-Bucks into your account.",
+    "supportingText": "Quick answer: open eligible Treasure Hunt Chests during the event. The reward is extremely rare, there is no guaranteed chest or confirmed official drop percentage, and eligible Item Shop claims begin only after activation.",
+    "primaryLink": {
+      "label": "How to get the token",
+      "slug": "how-to-get-fortnite-shop-token"
+    },
+    "secondaryLink": {
+      "label": "Fortnite official website",
+      "url": "https://www.fortnite.com/"
+    }
+  },
+  "sections": [
+    {
+      "id": "quick-facts",
+      "heading": "Fortnite Shop Token: Quick Facts",
+      "intro": "Read this before spending hours opening chests. These are the practical facts supported by published November 2026 coverage.",
+      "table": {
+        "caption": "Shop Token facts",
+        "columns": [
+          "Player question",
+          "Current answer"
+        ],
+        "rows": [
+          [
+            "What is the token?",
+            "A rare Pirate Shop Access reward, not V-Bucks currency."
+          ],
+          [
+            "Where does it drop?",
+            "Special Treasure Hunt Chests during the event; no fixed guaranteed spawn location."
+          ],
+          [
+            "Is the drop rate official?",
+            "No. Epic has not published a verified percentage."
+          ],
+          [
+            "How long does access last?",
+            "14 days after each activation."
+          ],
+          [
+            "Are all purchases included?",
+            "No. Eligible V-Bucks cosmetics are covered; real-money packs and other excluded offers are not."
+          ],
+          [
+            "When is the 2026 activation deadline?",
+            "December 15, 2026, according to published guides; re-check your in-game display."
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "How to get Pirate Shop Access",
+          "slug": "how-to-get-fortnite-shop-token",
+          "description": "Practical chest-hunting steps and common mistakes."
+        },
+        {
+          "label": "Fortnite Token Chance",
+          "slug": "fortnite-token-chance",
+          "description": "Why viral odds figures are unconfirmed."
+        }
+      ]
+    },
+    {
+      "id": "what-is",
+      "heading": "What Is the Fortnite Shop Token?",
+      "paragraphs": [
+        "Pirate Shop Access is a rare Treasure Hunters chest reward in Fortnite. Players often call it a Fortnite Shop Token, Fortnite Item Shop Token, or Pirate Shop Token. It grants limited-time access to claim eligible V-Bucks Item Shop cosmetics; it does not deposit V-Bucks into your account.",
+        "The phrases pirate shop Fortnite, Fortnite item shop token, and free item shop token commonly refer to the same in-game reward. This is not a redeem code, a token marketplace, or a gift card. The key player action is earning Pirate Shop Access through the current Treasure Hunters gameplay and then activating the relevant reward window.",
+        "Two access items are reported: Pirate Shop Access (2026) and Pirate Shop Access (2027). Each represents its own 14-day claiming period. The 2026 reward has a deadline in December 2026 while the 2027 item has its own availability window. Read dates shown in your game before making a decision."
+      ],
+      "subsections": [
+        {
+          "heading": "What “free Item Shop” actually means",
+          "paragraphs": [
+            "Qualifying cosmetics normally purchased with V-Bucks can be claimed during an active window. Not everything on the shop screen qualifies: real-money bundles, gifting and certain other categories are excluded. You also do not receive a spendable balance of free V-Bucks."
+          ]
+        },
+        {
+          "heading": "A reward, not a cheat",
+          "paragraphs": [
+            "Websites promising a guaranteed Pirate Shop Token by entering your account details or downloading an injector are not part of the legitimate chest-reward process. Do not share your Epic login information with token generators."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "All rewards and exclusions",
+          "slug": "fortnite-shop-token-rewards",
+          "description": "Which purchases qualify for free claims."
+        },
+        {
+          "label": "Activation rules",
+          "slug": "fortnite-shop-token-activation",
+          "description": "When the 14-day countdown begins."
+        }
+      ]
+    },
+    {
+      "id": "how-to",
+      "heading": "How to Get Pirate Shop Access",
+      "intro": "The legitimate route is to play Treasure Hunters and open eligible chests, not to enter a promo code.",
+      "paragraphs": [
+        "Opening more eligible chests increases the number of independent opportunities if each opening has a chance, but it does not create a guaranteed milestone. Do not trust videos that say a particular skin, emote, route, or exact count forces a token to drop."
+      ],
+      "steps": [
+        {
+          "heading": "Enter the active Battle Royale event",
+          "description": "Play Fortnite during the Treasure Hunters event and look for the current chest reward system."
+        },
+        {
+          "heading": "Search and open event chests",
+          "description": "Loot normal playable areas efficiently. No specific chest is confirmed to guarantee the token."
+        },
+        {
+          "heading": "Consider playing in a squad",
+          "description": "Published guides report that party members can share the reward if a teammate obtains it. Verify the current party rules in game."
+        },
+        {
+          "heading": "Check the reward and activation screen",
+          "description": "If Pirate Shop Access appears, read its exact year and activation deadline before activating."
+        }
+      ],
+      "links": [
+        {
+          "label": "Detailed chest-hunting guide",
+          "slug": "how-to-get-fortnite-shop-token",
+          "description": "Legitimate methods, team play and false guarantees."
+        }
+      ]
+    },
+    {
+      "id": "odds",
+      "heading": "Fortnite Token Chance: Is There an Official Drop Rate?",
+      "paragraphs": [
+        "As of November 4, 2026, Epic Games has not publicly verified an exact Pirate Shop Access drop rate. Several articles cite very different community or dataminer estimates, including roughly 1 in 2,000 and 1 in 700,000. Those numbers are not interchangeable and must not be treated as official odds.",
+        "Even when a hypothetical probability is known, a past run of failed chests does not increase the independent chance of the next chest unless the game explicitly uses a pity mechanic. No such guaranteed pity rule has been established for this reward."
+      ],
+      "subsections": [
+        {
+          "heading": "How to read probability claims",
+          "paragraphs": [
+            "A figure such as “1 in 2,000” can depend on assumptions about loot categories, event tier, or eligibility. A separate estimate can be calculated from different assumptions. Without an official loot table, neither should be presented as your personal chance."
+          ]
+        },
+        {
+          "heading": "What players can control",
+          "paragraphs": [
+            "You can control which mode you play, whether you team up and how many eligible chests you open. You cannot responsibly claim control over the hidden random outcome."
+          ]
+        }
+      ],
+      "links": [
+        {
+          "label": "Full chance and rarity explanation",
+          "slug": "fortnite-token-chance",
+          "description": "Reported odds, calculation examples and what remains unknown."
+        }
+      ]
+    },
+    {
+      "id": "rewards",
+      "heading": "What Can You Claim From the Item Shop?",
+      "paragraphs": [
+        "The attraction of Pirate Shop Access is the chance to claim eligible items that would otherwise be priced in V-Bucks. Player guides report the cosmetics remain in the locker after access ends. That is different from receiving Fortnite currency or a license to buy real-money offers for free.",
+        "Eligibility can vary by offer. Published coverage identifies real-money bundles, gifting and pass-related purchases as exclusions. Some reports also mention special limits on sidekicks. Check the actual shop interface whenever you activate a token, because current offerings can change daily."
+      ],
+      "table": {
+        "caption": "Rewards: what to expect",
+        "columns": [
+          "Offer type",
+          "Working guidance"
+        ],
+        "rows": [
+          [
+            "Eligible V-Bucks cosmetics",
+            "Generally included during active access."
+          ],
+          [
+            "Real-money packs or bundles",
+            "Excluded."
+          ],
+          [
+            "Gifts to other accounts",
+            "Excluded."
+          ],
+          [
+            "Battle Pass levels or pass-related offers",
+            "Reported as excluded; check the current game UI."
+          ],
+          [
+            "V-Bucks balance",
+            "Not provided by the token."
+          ]
+        ]
+      },
+      "links": [
+        {
+          "label": "Fortnite Shop Token Rewards",
+          "slug": "fortnite-shop-token-rewards",
+          "description": "A longer eligibility and exceptions guide."
+        }
+      ]
+    },
+    {
+      "id": "activation",
+      "heading": "How to Activate the 2026 and 2027 Tokens",
+      "paragraphs": [
+        "Guides published at the event launch describe two separate Pirate Shop Access windows. The 2026 item must be activated by December 15, 2026; the 2027 item is reported to be activatable January 1 through December 15, 2027. Each activation gives 14 days, and its timer starts only when activated.",
+        "Do not activate automatically if you want time to plan your claims. Compare your remaining deadline with the upcoming shop schedule and read the on-screen in-game terms. The shop rotates, and activation timing affects which eligible cosmetics are visible during your 14 days."
+      ],
+      "links": [
+        {
+          "label": "Step-by-step activation guide",
+          "slug": "fortnite-shop-token-activation",
+          "description": "Deadlines, countdown and common confusion."
+        }
+      ]
+    },
+    {
+      "id": "locations",
+      "heading": "Chest Locations and Loot Routes: What Is Known",
+      "paragraphs": [
+        "Treasure Hunt Chests are not reported to have a single guaranteed fixed token location. A claim that a specific POI, coordinate or route always grants Pirate Shop Access should be treated as unverified.",
+        "For now, favor routes that let your squad safely check several reachable chest opportunities per match. The best path is affected by match conditions and the current map layout. We will not publish invented chest coordinates or pretend there is an official drop-map."
+      ]
+    },
+    {
+      "id": "source-notes",
+      "heading": "Sources and Verification",
+      "paragraphs": [
+        "The main Fortnite game and season information should be checked against Epic Games notices. Detailed mechanics in this guide are attributed to published reporting by Destructoid, Dot Esports and GamesRadar. Drop-rate uncertainty is described by Vice and Dexerto.",
+        "Read the original reporting using the source links below. “Reported” means described by a third party; “not officially confirmed” means no authoritative official rate was located at this review. The site is an independent fan guide, not affiliated with Epic Games."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Is the Fortnite item shop token real?",
+      "answer": "Yes. Pirate Shop Access is a rare Treasure Hunters chest reward covered by published reporting. It is not a redeemable currency code."
+    },
+    {
+      "question": "Can you buy the Fortnite Shop Token?",
+      "answer": "No official direct token purchase method is documented in these guides. Avoid unverified sellers, account-sharing offers and fake generators."
+    },
+    {
+      "question": "Does Pirate Shop Access give free V-Bucks?",
+      "answer": "No. It lets qualifying V-Bucks-priced Item Shop cosmetics be claimed during the active access window; it does not add V-Bucks to your balance."
+    },
+    {
+      "question": "How long does the Pirate Shop Token last?",
+      "answer": "Published reports describe 14 days after each activation, with separate 2026 and 2027 items. Always check the in-game deadline."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-11-04"
+}

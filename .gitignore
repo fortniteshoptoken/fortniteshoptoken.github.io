@@ -1,0 +1,35 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.playwright-cli/
+release/
+
+# Internal build research must never be committed
+*详情资料*.txt
+
+# Only public repository instructions belong in Markdown.
+*.md
+!README.md
+!AGENTS.md
+
+# Local reports, browser recordings, backups and credentials.
+output/
+artifacts/
+screenshots/
+test-results/
+playwright-report/
+coverage/
+*.log
+*.har
+*.zip
+*.tar
+*.gz
+*.bak
+*.pem
+*.key
+*.p12
+*.pfx
