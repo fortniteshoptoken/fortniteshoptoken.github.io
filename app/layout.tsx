@@ -1,3 +1,4 @@
+import { SocialBar } from "@/components/integrations/social-bar";
 import type { CSSProperties, ReactNode } from "react";
 import { Analytics } from "@/components/integrations/analytics";
 import { VerifiedSources } from "@/components/site/verified-sources";
@@ -50,6 +51,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <div id="main-content">{children}</div>
         <VerifiedSources />
         {fixed && fixedSkin === "arcade-play" ? null : <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />}
+        <SocialBar />
       </body>
     </html>
   );

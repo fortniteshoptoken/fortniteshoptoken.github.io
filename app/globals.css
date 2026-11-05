@@ -612,3 +612,14 @@ html[data-skin="horror"] .skin-article-hero { border: 0; min-height: 28vh; }
   }
   .fixed-site-navigation.is-open { display: flex; }
 }
+
+/* Advertising wrappers only; vendor-created floating UI keeps its own styles. */
+.ad-slot { min-width: 0; max-width: 100%; margin-block: 1.5rem; }
+.ad-label { display: block; margin-bottom: .5rem; text-align: center; font: 10px/1.4 Arial, sans-serif; letter-spacing: .08em; color: hsl(var(--muted-foreground)); }
+.ad-banner-host { display: flex; justify-content: center; min-height: 50px; max-width: 100%; overflow: hidden; }
+.ad-banner-host > iframe { display: block; flex-shrink: 0; max-width: 100%; border: 0; }
+.ad-native { padding-block: 1rem; border-block: 1px solid hsl(var(--border)); overflow-x: clip; }
+.ad-native [data-native-ad-slot] { min-height: 100px; }
+@media (min-width: 768px) {
+  .ad-banner-host { min-height: 90px; }
+}
