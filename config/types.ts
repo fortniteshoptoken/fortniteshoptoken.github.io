@@ -172,6 +172,7 @@ export interface SeoPageDefinition {
   pageType: Exclude<PageType, "home">;
   navLabel: string;
   title: string;
+  absoluteTitle?: boolean;
   description: string;
   navVisible: boolean;
   parentSlug?: string | null;
@@ -184,6 +185,7 @@ export interface SeoPageDefinition {
   faq?: FaqItem[];
   screenshots?: ScreenshotItem[];
   relatedSlugs?: string[];
+  references?: Array<{ label: string; url: string; detail: string }>;
   lastReviewed: string;
 }
 

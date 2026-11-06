@@ -9,6 +9,7 @@ type MetadataPage = Pick<
   "slug" | "title" | "description"
 > & {
   pageType?: PageType;
+  absoluteTitle?: boolean;
 };
 
 export function pageMetadata(page: MetadataPage): Metadata {
@@ -18,7 +19,7 @@ export function pageMetadata(page: MetadataPage): Metadata {
   const shouldFollow = isLegal ? true : shouldIndex;
 
   return {
-    title: page.title,
+    title: page.absoluteTitle ? { absolute: page.title } : page.title,
     description: page.description,
     alternates: { canonical },
     robots: {
