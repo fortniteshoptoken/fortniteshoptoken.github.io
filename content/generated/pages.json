@@ -8,7 +8,7 @@
     "description": "How to get Fortnite Shop Token from Treasure Hunt Chests, why squad play matters, and which alleged guaranteed tricks are unsupported.",
     "navVisible": true,
     "hero": {
-      "eyebrow": "FORTNITE \u00b7 TREASURE HUNTERS GUIDE",
+      "eyebrow": "FORTNITE · TREASURE HUNTERS GUIDE",
       "heading": "How to Get Fortnite Shop Token",
       "lead": "Find the legitimate Pirate Shop Access chest reward in Fortnite Treasure Hunters. No shortcut or fixed chest guarantees a drop."
     },
@@ -54,7 +54,7 @@
         "id": "randomness",
         "heading": "Why There Is No Guaranteed Chest",
         "paragraphs": [
-          "Published reports say the special chests have no fixed guaranteed positions, and Epic has not disclosed a verified official Pirate Shop Access chance. That means a precise \u201cbest guaranteed chest\u201d route is not an honest promise.",
+          "Published reports say the special chests have no fixed guaranteed positions, and Epic has not disclosed a verified official Pirate Shop Access chance. That means a precise “best guaranteed chest” route is not an honest promise.",
           "If the outcome of each chest is random, opening many chests creates more opportunities across the group, but it cannot ensure success within a given number of games. Viral clips may show one player getting extremely lucky, not a repeatable recipe."
         ],
         "subsections": [
@@ -78,7 +78,7 @@
         "bullets": [
           "Treasure Hunters event is actually running in your region and game client.",
           "You understand Treasure Hunt Chests are the target; ordinary shop browsing does not grant a token.",
-          "You are not relying on claimed \u201c100% token\u201d maps or paid carry advertisements.",
+          "You are not relying on claimed “100% token” maps or paid carry advertisements.",
           "If a party member wins, you read the resulting reward and its activation year.",
           "You keep important shop offers and deadlines separate from unconfirmed drop probability estimates."
         ]
@@ -151,7 +151,9 @@
     "relatedSlugs": [
       "fortnite-token-chance",
       "fortnite-shop-token-rewards",
-      "fortnite-shop-token-activation"
+      "fortnite-shop-token-activation",
+      "chest-tracker",
+      "chest-counter"
     ],
     "lastReviewed": "2026-11-04"
   },
@@ -164,7 +166,7 @@
     "description": "Is the Fortnite token chance 1 in 2,000 or 1 in 700,000? Compare unconfirmed estimates, rarity claims and mathematical examples.",
     "navVisible": true,
     "hero": {
-      "eyebrow": "FORTNITE \u00b7 TREASURE HUNTERS GUIDE",
+      "eyebrow": "FORTNITE · TREASURE HUNTERS GUIDE",
       "heading": "Fortnite Token Chance: Pirate Shop Token Odds",
       "lead": "Epic has not publicly verified an exact Pirate Shop Access drop percentage. Conflicting numbers online are estimates, not an official probability."
     },
@@ -174,7 +176,7 @@
         "heading": "Fortnite Token Chance: What Is Actually Confirmed?",
         "paragraphs": [
           "The most important answer is that an official per-chest Fortnite token chance has not been confirmed in the sources reviewed as of November 4, 2026. You may see extremely precise numbers circulating on social media or on game-news pages. Those figures come from community assumptions, different analyses or secondary reporting.",
-          "The Pirate Shop Token is widely described as a very rare Treasure Hunters reward. But \u201cvery rare\u201d does not let us determine an exact probability. A verified loot table or an official game statement would be needed to report an authoritative rate."
+          "The Pirate Shop Token is widely described as a very rare Treasure Hunters reward. But “very rare” does not let us determine an exact probability. A verified loot table or an official game statement would be needed to report an authoritative rate."
         ]
       },
       {
@@ -182,7 +184,7 @@
         "heading": "Why 1 in 2,000 and 1 in 700,000 Both Appear",
         "paragraphs": [
           "Different analyses can refer to different event conditions or assumptions. Without seeing a consistent official distribution table and the applicable chest population, comparing the raw fractions as if they were measured under identical rules is misleading.",
-          "A website claiming \u201cthe official Pirate Shop Token spawn rate is exactly 0.000143%\u201d without an Epic source is overstating the evidence."
+          "A website claiming “the official Pirate Shop Token spawn rate is exactly 0.000143%” without an Epic source is overstating the evidence."
         ],
         "table": {
           "caption": "Unconfirmed estimates found in reporting",
@@ -214,7 +216,7 @@
         "id": "math",
         "heading": "How Many Chests? A Hypothetical Probability Example",
         "paragraphs": [
-          "For a purely illustrative model in which each eligible chest independently has probability p of dropping the reward, the probability of receiving it at least once after n openings is 1 \u2212 (1 \u2212 p)^n. This is a mathematical formula, not evidence that Fortnite uses any particular p or that all chests are independent.",
+          "For a purely illustrative model in which each eligible chest independently has probability p of dropping the reward, the probability of receiving it at least once after n openings is 1 − (1 − p)^n. This is a mathematical formula, not evidence that Fortnite uses any particular p or that all chests are independent.",
           "If we temporarily assume p = 1/2,000, opening 100 eligible chests would yield about 4.88% chance of at least one hit under the model. If we instead assume p = 1/700,000, the same 100 openings would yield about 0.0143%. These wildly different hypothetical answers show why selecting an unsupported p is dangerous."
         ],
         "subsections": [
@@ -261,7 +263,7 @@
         "id": "rare",
         "heading": "How Rare Is the Pirate Shop Token in Fortnite?",
         "paragraphs": [
-          "The player question \u201chow rare is the pirate shop token Fortnite?\u201d is about whether the item is ordinary loot, an achievable grind target, or an exceptional lucky hit. Published guides treat it as exceptionally rare, but there is no verified official numeric threshold in the evidence reviewed.",
+          "The player question “how rare is the pirate shop token Fortnite?” is about whether the item is ordinary loot, an achievable grind target, or an exceptional lucky hit. Published guides treat it as exceptionally rare, but there is no verified official numeric threshold in the evidence reviewed.",
           "The practical approach is to consider access a bonus while playing, not a reward you can plan to earn within an exact number of matches. Do not purchase allegedly guaranteed accounts or pay for third-party token unlockers."
         ]
       },
@@ -331,7 +333,7 @@
     "description": "Fortnite Shop Token rewards explained: which V-Bucks cosmetics qualify for Pirate Shop Access, what is excluded and whether free V-Bucks are included.",
     "navVisible": true,
     "hero": {
-      "eyebrow": "FORTNITE \u00b7 TREASURE HUNTERS GUIDE",
+      "eyebrow": "FORTNITE · TREASURE HUNTERS GUIDE",
       "heading": "Fortnite Shop Token Rewards: What Is Free?",
       "lead": "Pirate Shop Access lets holders claim eligible V-Bucks-priced Item Shop cosmetics during the active window; it does not provide free V-Bucks currency."
     },
@@ -348,7 +350,7 @@
         "id": "eligible",
         "heading": "Which Item Shop Cosmetics Are Eligible?",
         "paragraphs": [
-          "Guides published at launch describe eligible V-Bucks cosmetic offers as claimable for free while the Pirate Shop window is active. Because the Item Shop rotates, the exact list of qualifying outfits, emotes or other cosmetics changes over time. A static list today is not a permanent \u201call future items\u201d list.",
+          "Guides published at launch describe eligible V-Bucks cosmetic offers as claimable for free while the Pirate Shop window is active. Because the Item Shop rotates, the exact list of qualifying outfits, emotes or other cosmetics changes over time. A static list today is not a permanent “all future items” list.",
           "The safest approach is to check each offer inside Fortnite after activation: confirm the purchase path and whether the claim price is waived before pressing a button. Use the game client, not screenshots or third-party fake checkout pages."
         ],
         "subsections": [
@@ -359,7 +361,7 @@
             ]
           },
           {
-            "heading": "Does \u201ceverything free\u201d literally mean every store item?",
+            "heading": "Does “everything free” literally mean every store item?",
             "paragraphs": [
               "No. The headline is shorthand. Real-money offers and several special purchase types are excluded, and it would be misleading to promise universal eligibility."
             ]
@@ -429,7 +431,7 @@
       },
       {
         "id": "fraud",
-        "heading": "Avoid Fake \u201cFree Item Shop Token\u201d Websites",
+        "heading": "Avoid Fake “Free Item Shop Token” Websites",
         "paragraphs": [
           "Searches for free Item Shop items often attract imitation login pages and promises of account-wide free currency. A legitimate information site should never ask for an Epic password to display game rules.",
           "Pirate Shop Access does not require an external token generator. Do not install files or extensions that claim to increase loot odds or bypass store prices. Verify any game action inside the official Fortnite client."
@@ -490,7 +492,7 @@
     "description": "Learn when to activate Fortnite Pirate Shop Access, how the 14-day clock works and the 2026 and 2027 activation deadlines.",
     "navVisible": true,
     "hero": {
-      "eyebrow": "FORTNITE \u00b7 TREASURE HUNTERS GUIDE",
+      "eyebrow": "FORTNITE · TREASURE HUNTERS GUIDE",
       "heading": "Fortnite Shop Token Activation: Dates and Steps",
       "lead": "Winning Pirate Shop Access and activating it are different actions. Published guides describe two separate 14-day claiming windows, each with its own date rules."
     },
@@ -525,7 +527,7 @@
             ],
             [
               "Pirate Shop Access (2027)",
-              "Reported January 1\u2013December 15, 2027",
+              "Reported January 1–December 15, 2027",
               "14 days from activation"
             ]
           ]
@@ -587,7 +589,7 @@
           "Mixing up the 2026 deadline and the separate 2027 window.",
           "Believing any cash-priced bundle is included.",
           "Activating before checking the current and upcoming eligible rotations.",
-          "Trusting external sites that ask you to \u201cactivate your token\u201d with an Epic password."
+          "Trusting external sites that ask you to “activate your token” with an Epic password."
         ]
       },
       {
@@ -667,9 +669,18 @@
         "id": "using-the-counter",
         "heading": "How to Track a Chest Hunt",
         "steps": [
-          { "heading": "Count each match", "description": "Tap +1 match when you land. Count every match you attempt, including one where you open zero chests. Use -1 match to fix a double tap." },
-          { "heading": "Count actual opens", "description": "Tap +1 chest after an opening you mean to track. Skip already looted containers and use -1 chest if you entered the same opening twice." },
-          { "heading": "Compare routes", "description": "After a few matches, compare your chests per match. Save your totals elsewhere before resetting if you want to start a separate trial on another route." }
+          {
+            "heading": "Count each match",
+            "description": "Tap +1 match when you land. Count every match you attempt, including one where you open zero chests. Use -1 match to fix a double tap."
+          },
+          {
+            "heading": "Count actual opens",
+            "description": "Tap +1 chest after an opening you mean to track. Skip already looted containers and use -1 chest if you entered the same opening twice."
+          },
+          {
+            "heading": "Compare routes",
+            "description": "After a few matches, compare your chests per match. Save your totals elsewhere before resetting if you want to start a separate trial on another route."
+          }
         ]
       },
       {
@@ -678,28 +689,54 @@
         "subsections": [
           {
             "heading": "Solo: track your own opens",
-            "paragraphs": ["Use the same counting rule each run. For example, log only the chests you personally open and count an early elimination as a match. Six opens across three attempts means you averaged two opens per match."]
+            "paragraphs": [
+              "Use the same counting rule each run. For example, log only the chests you personally open and count an early elimination as a match. Six opens across three attempts means you averaged two opens per match."
+            ]
           },
           {
             "heading": "Squad: agree on one tally",
-            "paragraphs": ["Choose whether your tally is personal or for the whole squad. For a team tally, ask each teammate for their opens after the match, add each opening once and record just one match. Compare team runs with other team runs."]
+            "paragraphs": [
+              "Choose whether your tally is personal or for the whole squad. For a team tally, ask each teammate for their opens after the match, add each opening once and record just one match. Compare team runs with other team runs."
+            ]
           }
         ],
         "paragraphs": [
           "Chests per match measures how much searching you did. A larger count tells you nothing about whether the next chest is luckier. If you're testing a route, also note whether enemies, a long rotation or an early storm made you abandon it."
         ],
         "links": [
-          { "label": "Compare chest routes", "slug": "fortnite-shop-token-locations", "description": "Pick a landing and a fallback for your next run." }
+          {
+            "label": "Compare chest routes",
+            "slug": "fortnite-shop-token-locations",
+            "description": "Pick a landing and a fallback for your next run."
+          }
         ]
       }
     ],
     "faq": [
-      { "question": "Can a Fortnite token finder locate the Pirate Shop Token?", "answer": "This tool records the numbers you enter. It cannot see your live match, map or inventory, and there is no Epic ID field or login." },
-      { "question": "Is the chest counter official?", "answer": "It is a fan-made tool. It has no connection to Epic Games or its servers and does not use an official drop-rate feed." },
-      { "question": "Does opening more chests guarantee a token?", "answer": "No. The counter measures your activity. A total or average cannot tell you when a reward will drop or how likely the next opening is to produce one." },
-      { "question": "Will my counts be saved?", "answer": "Normally, yes. Your counts stay in the browser where you enter them and survive a refresh. The counter cannot sync across devices. If browser storage is blocked, the counter still works until you leave or refresh, and it shows a storage warning." }
+      {
+        "question": "Can a Fortnite token finder locate the Pirate Shop Token?",
+        "answer": "This tool records the numbers you enter. It cannot see your live match, map or inventory, and there is no Epic ID field or login."
+      },
+      {
+        "question": "Is the chest counter official?",
+        "answer": "It is a fan-made tool. It has no connection to Epic Games or its servers and does not use an official drop-rate feed."
+      },
+      {
+        "question": "Does opening more chests guarantee a token?",
+        "answer": "No. The counter measures your activity. A total or average cannot tell you when a reward will drop or how likely the next opening is to produce one."
+      },
+      {
+        "question": "Will my counts be saved?",
+        "answer": "Normally, yes. Your counts stay in the browser where you enter them and survive a refresh. The counter cannot sync across devices. If browser storage is blocked, the counter still works until you leave or refresh, and it shows a storage warning."
+      }
     ],
-    "relatedSlugs": ["how-to-get-fortnite-shop-token", "fortnite-token-chance", "fortnite-shop-token-activation"],
+    "relatedSlugs": [
+      "how-to-get-fortnite-shop-token",
+      "fortnite-token-chance",
+      "fortnite-shop-token-activation",
+      "chest-tracker",
+      "chest-counter"
+    ],
     "lastReviewed": "2026-11-06"
   },
   {
@@ -723,10 +760,28 @@
         "intro": "Epic announced that Treasure Hunters would start on November 1, 2026, in Battle Royale on Crossbones Isle. GamesRadar+ reported two player routes on November 4. Use them as places to scout. The risks below are route planning judgments, and neither the spawn counts nor the token eligibility of specific containers are confirmed here.",
         "table": {
           "caption": "Crossbones Isle route options to scout this season",
-          "columns": ["Area", "Chest access", "Risk", "Solo or squad", "Evidence status"],
+          "columns": [
+            "Area",
+            "Chest access",
+            "Risk",
+            "Solo or squad",
+            "Evidence status"
+          ],
           "rows": [
-            ["North of Plunder Port", "Reported compact loop. Check nearby buildings first.", "Cut the loop short if other players land on it.", "Solo or duo", "Player report"],
-            ["Northwest near Buried Treasure Island", "Reported nearby chest cluster. Scout a return path first.", "Skip a crossing if it leaves no safe way into the circle.", "Duo or squad", "Player report"]
+            [
+              "North of Plunder Port",
+              "Reported compact loop. Check nearby buildings first.",
+              "Cut the loop short if other players land on it.",
+              "Solo or duo",
+              "Player report"
+            ],
+            [
+              "Northwest near Buried Treasure Island",
+              "Reported nearby chest cluster. Scout a return path first.",
+              "Skip a crossing if it leaves no safe way into the circle.",
+              "Duo or squad",
+              "Player report"
+            ]
           ]
         },
         "paragraphs": [
@@ -739,23 +794,49 @@
         "subsections": [
           {
             "heading": "Solo route planning",
-            "paragraphs": ["Pick a short loop you can finish without doubling back. At Plunder Port, test the reported route north of the landmark only if your first stop and fallback both look reachable. A quieter drop with fewer stops can beat a popular cluster if you spend less time fighting."]
+            "paragraphs": [
+              "Pick a short loop you can finish without doubling back. At Plunder Port, test the reported route north of the landmark only if your first stop and fallback both look reachable. A quieter drop with fewer stops can beat a popular cluster if you spend less time fighting."
+            ]
           },
           {
             "heading": "Squad chest coverage",
-            "paragraphs": ["Give players different nearby stops and agree where to regroup before rotating. In the northwest, split only if each player can get back to the rendezvous safely. Ask each teammate for a count of their own opens so nobody logs the same chest twice."]
+            "paragraphs": [
+              "Give players different nearby stops and agree where to regroup before rotating. In the northwest, split only if each player can get back to the rendezvous safely. Ask each teammate for a count of their own opens so nobody logs the same chest twice."
+            ]
           }
         ],
         "steps": [
-          { "heading": "Check the playlist", "description": "Confirm you are on Crossbones Isle in Treasure Hunters Battle Royale. Do not assume a pin from another mode or season applies." },
-          { "heading": "Mark two landings", "description": "Choose a primary stop and a nearby fallback before jumping. Switch if you see several opponents heading to the same first chest." },
-          { "heading": "Pick a direction", "description": "Move through one short loop in order. In a squad, divide adjacent stops so teammates can help each other without retracing the whole route." },
-          { "heading": "Set an exit", "description": "Check the circle before committing to the last stop. Leave early if a crossing is exposed, the next chest is already looted or you need time to rotate." },
-          { "heading": "Record the run", "description": "Count one match and the chests actually opened. Keep zero-chest runs in your tally so they reflect how the route performs when contested." },
-          { "heading": "Try the fallback", "description": "Repeat each route across several similar matches. Favor the one that delivers more reachable opens and a reliable exit." }
+          {
+            "heading": "Check the playlist",
+            "description": "Confirm you are on Crossbones Isle in Treasure Hunters Battle Royale. Do not assume a pin from another mode or season applies."
+          },
+          {
+            "heading": "Mark two landings",
+            "description": "Choose a primary stop and a nearby fallback before jumping. Switch if you see several opponents heading to the same first chest."
+          },
+          {
+            "heading": "Pick a direction",
+            "description": "Move through one short loop in order. In a squad, divide adjacent stops so teammates can help each other without retracing the whole route."
+          },
+          {
+            "heading": "Set an exit",
+            "description": "Check the circle before committing to the last stop. Leave early if a crossing is exposed, the next chest is already looted or you need time to rotate."
+          },
+          {
+            "heading": "Record the run",
+            "description": "Count one match and the chests actually opened. Keep zero-chest runs in your tally so they reflect how the route performs when contested."
+          },
+          {
+            "heading": "Try the fallback",
+            "description": "Repeat each route across several similar matches. Favor the one that delivers more reachable opens and a reliable exit."
+          }
         ],
         "links": [
-          { "label": "Track your chest runs", "slug": "fortnite-token-finder", "description": "Use the chest counter to compare actual opens per match." }
+          {
+            "label": "Track your chest runs",
+            "slug": "fortnite-token-finder",
+            "description": "Use the chest counter to compare actual opens per match."
+          }
         ]
       },
       {
@@ -764,29 +845,52 @@
         "subsections": [
           {
             "heading": "How to verify a video or map claim",
-            "paragraphs": ["Check the recording date, the playlist and the current in-game map label. Look for continuous footage from the landing to the opening. A reward pop-up can show what happened once, while an edited clip or map pin cannot prove a repeatable spawn or a token drop."]
+            "paragraphs": [
+              "Check the recording date, the playlist and the current in-game map label. Look for continuous footage from the landing to the opening. A reward pop-up can show what happened once, while an edited clip or map pin cannot prove a repeatable spawn or a token drop."
+            ]
           },
           {
             "heading": "Common mistakes",
-            "paragraphs": ["Do not confuse unopened chest icons with completed opens or assume the busiest POI is your best landing. If two routes look equally dense on a map, choose the one with the shorter walk and an easier exit under your match conditions."]
+            "paragraphs": [
+              "Do not confuse unopened chest icons with completed opens or assume the busiest POI is your best landing. If two routes look equally dense on a map, choose the one with the shorter walk and an easier exit under your match conditions."
+            ]
           },
           {
             "heading": "Chest counter workflow",
-            "paragraphs": ["Keep one tally for each route and use the same counting rule. Write down the route and its final average before resetting. Compare solo averages separately from squad totals."]
+            "paragraphs": [
+              "Keep one tally for each route and use the same counting rule. Write down the route and its final average before resetting. Compare solo averages separately from squad totals."
+            ]
           },
           {
             "heading": "What can change after an update",
-            "paragraphs": ["Epic's October 30 announcement describes rotating captains and POIs plus Treasure Hours with boosted drops. Treat map pins and old videos as patch snapshots. The announcement gives no token-specific boost or guaranteed chest. Recheck the in-game map and event notices after updates."]
+            "paragraphs": [
+              "Epic's October 30 announcement describes rotating captains and POIs plus Treasure Hours with boosted drops. Treat map pins and old videos as patch snapshots. The announcement gives no token-specific boost or guaranteed chest. Recheck the in-game map and event notices after updates."
+            ]
           }
         ]
       }
     ],
     "faq": [
-      { "question": "Where are the Fortnite Shop Token chests?", "answer": "Look for chest openings in Treasure Hunters Battle Royale on Crossbones Isle. North of Plunder Port and the northwest near Buried Treasure Island are reported routes to scout. Neither is an official map of token drops." },
-      { "question": "Is there a guaranteed Pirate Shop Token location?", "answer": "No guaranteed location has been verified. A chest that awarded Pirate Shop Access once does not prove that chest will give it again." },
-      { "question": "What is the best route for solo players?", "answer": "Use a short loop with an alternate landing, cover between stops and an early exit. Test a few drops and compare how many chests you actually open, including contested runs." },
-      { "question": "Do squad members share the reward?", "answer": "GamesRadar+ reported that teammates can receive Pirate Shop Access when a squadmate opens a winning chest while they are playing together. Check current in-game terms before relying on this and keep your team in the same match." },
-      { "question": "Can a token finder track my route?", "answer": "The chest counter can log opens and matches you enter for a route. Record the route name separately. The counter does not see your location or read live game data." }
+      {
+        "question": "Where are the Fortnite Shop Token chests?",
+        "answer": "Look for chest openings in Treasure Hunters Battle Royale on Crossbones Isle. North of Plunder Port and the northwest near Buried Treasure Island are reported routes to scout. Neither is an official map of token drops."
+      },
+      {
+        "question": "Is there a guaranteed Pirate Shop Token location?",
+        "answer": "No guaranteed location has been verified. A chest that awarded Pirate Shop Access once does not prove that chest will give it again."
+      },
+      {
+        "question": "What is the best route for solo players?",
+        "answer": "Use a short loop with an alternate landing, cover between stops and an early exit. Test a few drops and compare how many chests you actually open, including contested runs."
+      },
+      {
+        "question": "Do squad members share the reward?",
+        "answer": "GamesRadar+ reported that teammates can receive Pirate Shop Access when a squadmate opens a winning chest while they are playing together. Check current in-game terms before relying on this and keep your team in the same match."
+      },
+      {
+        "question": "Can a token finder track my route?",
+        "answer": "The chest counter can log opens and matches you enter for a route. Record the route name separately. The counter does not see your location or read live game data."
+      }
     ],
     "references": [
       {
@@ -805,7 +909,235 @@
         "detail": "Includes November 1, 2026 player footage of a reward from a normal-looking chest. It documents a find, not the full list of eligible chests."
       }
     ],
-    "relatedSlugs": ["how-to-get-fortnite-shop-token", "fortnite-token-chance"],
+    "relatedSlugs": [
+      "how-to-get-fortnite-shop-token",
+      "fortnite-token-chance",
+      "chest-tracker",
+      "chest-counter"
+    ],
     "lastReviewed": "2026-11-06"
+  },
+  {
+    "enabled": true,
+    "slug": "chest-tracker",
+    "pageType": "guide",
+    "navLabel": "Chest Tracker",
+    "title": "Fortnite Chest Tracker Guide (2026) – How It Works & Tips",
+    "description": "Fortnite Chest Tracker explained on PC and Steam: how it works, what it affects, the best way to use it and mistakes to avoid. Includes full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Fortnite Chest Tracker Guide: How It Works & Best Tips",
+      "lead": "The Fortnite chest tracker here is a manual counter for recording Treasure Hunt Chests opened and matches played; it is not a live map or an official drop-rate tool. Use it to compare how much you searched across sessions, not to predict when Pirate Shop Access will drop. Eligible Treasure Hunt Chests can award the rare reward, but no fixed chest or route guarantees it. Log chest totals and match context consistently, then compare chests per match as a measure of search effort. The sections below explain what the counter can show, how to keep useful records, and which conclusions to avoid.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "how-the-fortnite-chest-tracker-measures-a-hunt",
+        "heading": "How the Fortnite Chest Tracker Measures a Hunt",
+        "paragraphs": [
+          "To find your chests per match, divide your openings by the number of matches in that same tally. Say you open three chests in your first match and none in your second. Your tally is three chests across two matches, or 1.5 chests per match. The decimal is an average across the hunt, not the number you opened in either match. If you have not played a match yet, there is no average to calculate.",
+          "Read the average alongside the two totals. Three openings in two matches and nine openings in six matches both come to 1.5 chests per match, but the second tally represents more openings over more matches. The chest total tells you how many openings you logged; the average tells you how many you logged per match."
+        ],
+        "table": {
+          "caption": "Fortnite Chest Tracker at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "How the Fortnite Chest Tracker Measures a Hunt",
+              "The Fortnite chest tracker measures two things: how many Treasure Hunt Chests you opened and how many matches you played during the hunt."
+            ],
+            [
+              "Use Consistent Session Records to Compare Routes",
+              "A useful chest tracker compares search activity only when each match is recorded in the same way."
+            ],
+            [
+              "What Chest Counts Can and Cannot Tell You",
+              "A chest count measures search activity, not reward certainty."
+            ],
+            [
+              "Avoid Tracker Mistakes That Distort Your Results",
+              "A chest total records openings, not the chance of receiving Pirate Shop Access."
+            ]
+          ]
+        },
+        "intro": "The Fortnite chest tracker measures two things: how many Treasure Hunt Chests you opened and how many matches you played during the hunt. It does not connect to your Fortnite account, so you enter both totals yourself. Count an opening when you actually open the chest, not when you spot it. A match where you hunt but open nothing still adds one to the match total and zero to the chest total."
+      },
+      {
+        "id": "use-consistent-session-records-to-compare-routes",
+        "heading": "Use Consistent Session Records to Compare Routes",
+        "paragraphs": [
+          "Keep the conditions consistent when comparing routes. Use the same definition of an opened chest, count only chests you personally opened, and record matches that ended early instead of quietly removing them. A route that produces more recorded openings may be more efficient for searching, but the result measures access to chests rather than reward quality.",
+          "Treasure Hunt Chests are openings that can award an event prize, and an eligible chest may look like an ordinary loot chest. That makes careful logging more useful than judging a route by visual appearance or by one unusually lucky match. Review several sessions together and compare total openings, matches played, and chests per match.",
+          "Use the tracker to decide which search pattern gives you more opportunities to open eligible chests. Do not turn the comparison into a promise: a route can help you reach more chests, but no known spot guarantees a token."
+        ],
+        "bullets": [
+          "Create one record for every match rather than combining several games into one total.",
+          "Record the searched area, chest openings, and whether the match ended early.",
+          "Compare totals across multiple sessions instead of relying on a single match.",
+          "Use chests per match as a search-effort measure, not a guaranteed reward rate."
+        ],
+        "intro": "A useful chest tracker compares search activity only when each match is recorded in the same way. Treat every match as one separate session, note the route or area searched, and record the number of Treasure Hunt Chests opened before leaving or being eliminated. For example, you can label a session by the area searched, such as Crossbones Isle, without treating that location as a special drop point."
+      },
+      {
+        "id": "what-chest-counts-can-and-cannot-tell-you",
+        "heading": "What Chest Counts Can and Cannot Tell You",
+        "paragraphs": [
+          "Do not turn a small sample into an odds claim. Epic has not publicly verified an exact Pirate Shop Access drop percentage, so precise figures shared online should not be treated as official probability. If your tracker records zero tokens after several matches, that result shows only what happened during those matches; it does not prove that your route is invalid or that the next chest is more likely to pay out.",
+          "Use the tracker to compare effort rather than predict timing. Chests per match can show whether one session involved more searching than another, especially when you record matches and chest openings consistently. It cannot identify the next token, reveal a live probability feed, or establish a guaranteed route. For the acquisition process, use the Fortnite Shop Token guide; for estimates and rarity claims, see the Fortnite Token Chance guide. Keep those questions separate from your personal chest log."
+        ],
+        "intro": "A chest count measures search activity, not reward certainty. An eligible Treasure Hunt Chest can award the Pirate Shop Access token, but opening one does not guarantee it. The chest may look like an ordinary loot chest, so appearance alone cannot confirm that a token will be inside. A route can help you reach more chests, yet no known chest or location guarantees the reward."
+      },
+      {
+        "id": "avoid-tracker-mistakes-that-distort-your-results",
+        "heading": "Avoid Tracker Mistakes That Distort Your Results",
+        "paragraphs": [
+          "Keep the tracker’s role narrow: it is a personal activity log, not a live locator, account-connected tool, or official probability feed. It cannot identify the next token or promise that a particular chest will award one. Use chest and match totals to compare how much you searched between sessions, not to predict a reward.",
+          "For cleaner comparisons, record openings and matches from the same session and use the same counting method each time. A chest-per-match figure describes search activity only; it does not show that one route has better odds. Route details belong in the locations guide, while the token chance and acquisition guides cover probability claims and how the reward is obtained."
+        ],
+        "intro": "A chest total records openings, not the chance of receiving Pirate Shop Access. Do not turn a run of empty chests into a personal drop rate or assume that a reward is due after a certain number of searches. The exact per-chest chance has not been publicly confirmed, and precise figures circulating online are estimates rather than official rates."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does chest tracker work in Fortnite?",
+        "answer": "It is a manual log: record the Treasure Hunt Chests you open and the matches you play. The resulting chests-per-match figure describes how much searching you did during those sessions; it does not identify a token’s location or predict a reward."
+      },
+      {
+        "question": "Is chest tracker worth it in Fortnite?",
+        "answer": "It can help you compare your own search activity between matches or routes because it keeps chest and match totals together. Its value is organizational, not predictive: the counter has no official drop-rate feed and cannot guarantee Pirate Shop Access."
+      },
+      {
+        "question": "What is the best chest tracker strategy in Fortnite?",
+        "answer": "Use the same logging method each session and compare chests per match to understand your searching pace. Treat a route as a way to reach more chests, not as a guaranteed token source; see the chest locations guide for route-specific coverage."
+      }
+    ],
+    "relatedSlugs": [
+      "fortnite-shop-token-locations",
+      "fortnite-token-finder",
+      "how-to-get-fortnite-shop-token"
+    ],
+    "lastReviewed": "2026-11-23"
+  },
+  {
+    "enabled": true,
+    "slug": "chest-counter",
+    "pageType": "guide",
+    "navLabel": "Chest Counter",
+    "title": "Fortnite Chest Counter Explained (2026) – Mechanics",
+    "description": "Chest counter in Fortnite on PC and Steam: how it works, step-by-step tips and what experienced players do differently. Updated with full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Fortnite Chest Counter Explained: Mechanics, Tips & Mistakes",
+      "lead": "Fortnite chest counter is a manual way to record Treasure Hunt Chests opened and matches played while searching for Pirate Shop Access. It is not a live Fortnite tool, does not connect to your account, and cannot reveal the next token or guarantee a reward. The useful method is to record each match consistently, compare chests per match, and treat the totals as activity measurements rather than drop-rate evidence. The sections below explain the counter, its limits, a practical tracking routine, and the mistakes that make results misleading.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "how-the-fortnite-chest-counter-measures-a-hunt",
+        "heading": "How the Fortnite Chest Counter Measures a Hunt",
+        "paragraphs": [
+          "Once you have the totals, you can calculate a simple chests-per-match measure by dividing opened chests by played matches. This number describes how much searching your sessions produced. It can help you compare routes, landing choices, or squad runs, but it does not measure luck and cannot show that one session is closer to Pirate Shop Access than another.",
+          "The counter has no live Fortnite map, account access, or official drop-rate feed. You must enter the results yourself, so it cannot see unopened chests, identify a future reward, or locate the next Pirate Shop Token. It also cannot guarantee that a chest will produce the reward.",
+          "Use the counter as an activity record: count consistently, label each session clearly, and treat the totals as evidence of how much you searched rather than evidence of a guaranteed outcome."
+        ],
+        "bullets": [
+          "Record every opened chest after the match ends.",
+          "Record the match total separately from the chest total.",
+          "Use chests per match to compare searching activity, not reward odds.",
+          "Do not treat a higher total as proof that the next chest will drop Pirate Shop Access."
+        ],
+        "table": {
+          "caption": "Fortnite Chest Counter at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "How the Fortnite Chest Counter Measures a Hunt",
+              "The Fortnite chest counter is a manual session log, not an in-game feature."
+            ],
+            [
+              "Key Chest Mechanics and Reward Limits",
+              "An eligible Treasure Hunt Chest can award Pirate Shop Access, but eligibility means the token can drop, not that it will."
+            ],
+            [
+              "Best Way to Use a Chest Counter During Sessions",
+              "If you're comparing two sessions, start both at Crossbones Isle in Treasure Hunters Battle Royale and use the same counting rules."
+            ],
+            [
+              "Tips Experienced Players Use to Keep Results Useful",
+              "Measure Search Volume, Not Luck."
+            ],
+            [
+              "Common Chest Counter Mistakes to Avoid",
+              "A long streak without Pirate Shop Access doesn't mean you're due for a token."
+            ]
+          ]
+        },
+        "intro": "The Fortnite chest counter is a manual session log, not an in-game feature. After each match, record two separate totals: the number of Treasure Hunt Chests you opened and the number of matches you played. Keeping those figures separate makes the result easier to understand and prevents one long match from being confused with several short searches."
+      },
+      {
+        "id": "key-chest-mechanics-and-reward-limits",
+        "heading": "Key Chest Mechanics and Reward Limits",
+        "paragraphs": [
+          "If a clip shows a player getting the token from a chest at a particular landmark, it shows what dropped on that opening, not what will happen when you open a chest there. Neither visiting that spot nor entering a code guarantees Pirate Shop Access. Use the Fortnite Shop Token Locations guide to choose a route based on the chests you can reach, not on a promise that one stop will pay out."
+        ],
+        "intro": "An eligible Treasure Hunt Chest can award Pirate Shop Access, but eligibility means the token can drop, not that it will. The token is a rare, random reward in Fortnite’s Treasure Hunters Battle Royale. An eligible chest can look like an ordinary loot chest, so its appearance alone doesn’t tell you whether it will contain the token. Opening an eligible chest and getting only regular loot doesn’t mean you picked the wrong chest."
+      },
+      {
+        "id": "best-way-to-use-a-chest-counter-during-sessions",
+        "heading": "Best Way to Use a Chest Counter During Sessions",
+        "paragraphs": [
+          "At the end of each session, add up your Treasure Hunt Chest openings and divide by the number of matches you logged. For example, 12 openings across four matches comes to three chests per match. Another session with 15 openings across six matches comes to 2.5. The second session had more openings overall, but the first averaged more per match."
+        ],
+        "bullets": [
+          "Start each match at zero. Add one when you open a Treasure Hunt Chest, not when you spot one or pass a chest that's already open.",
+          "Write down the final count before you queue again. Keep matches with zero openings in the log so the average includes the rounds where you came up empty.",
+          "Save both totals next to the average. If you start in a different area, note the change so you can tell which sessions began under similar conditions."
+        ],
+        "intro": "If you're comparing two sessions, start both at Crossbones Isle in Treasure Hunters Battle Royale and use the same counting rules. Keep one line per match in your notes. That gives you a place to record a short match even if you never reach a Treasure Hunt Chest."
+      },
+      {
+        "id": "tips-experienced-players-use-to-keep-results-useful",
+        "heading": "Tips Experienced Players Use to Keep Results Useful",
+        "paragraphs": [
+          "Separate Route Testing From Odds Claims. If you change landing areas, squad size, or the order of locations, label those sessions clearly so your chest totals remain useful for comparing activity. Keep the route question separate from the probability question: a route may increase the number of eligible chests you can reach, while the exact Pirate Shop Access chance remains unconfirmed. Precise percentages found online should therefore be treated as estimates, not official measurements. Check the Fortnite Token Chance: Pirate Shop Token Odds & Rarity guide for the distinction between reported claims and confirmed information, and use your counter to describe search volume rather than calculate an official drop rate."
+        ],
+        "intro": "Measure Search Volume, Not Luck. A chest counter is most useful when it shows how much searching you completed, not whether you were “due” for a token. Use a route that helps you reach more Treasure Hunt Chests, then record the number of openings and matches separately. A larger total means you searched more; it does not prove that your next chest has better odds or that your previous attempts changed the reward system. For route comparisons, use the Fortnite Shop Token Locations & Best Chest Routes guide rather than treating one named spot as a guaranteed solution."
+      },
+      {
+        "id": "common-chest-counter-mistakes-to-avoid",
+        "heading": "Common Chest Counter Mistakes to Avoid",
+        "paragraphs": [
+          "Don't plug a percentage from a social post into your chest total to calculate your personal odds. An exact per-chest drop rate for Pirate Shop Access isn't publicly confirmed by Epic, and extra decimal places don't make an estimate official. Check whether the number comes from Epic and applies to eligible Treasure Hunt Chests before quoting it as the official rate.",
+          "Don't use the counter to decide which chest to open next. It has no live map, so the number on screen can't tell you whether a chest is nearby, whether another player has already opened it, or where the Pirate Shop Token will turn up."
+        ],
+        "intro": "A long streak without Pirate Shop Access doesn't mean you're due for a token. Don't set a chest target and treat it as a countdown to a guaranteed drop. If you reach the number you planned to open without finding the token, use it as a stopping point, not a reason to squeeze in one more match."
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does chest counter work in Fortnite?",
+        "answer": "It works as a manual session log. Record how many eligible Treasure Hunt Chests you open and how many matches you play, then compare the resulting chests-per-match figure across similarly recorded sessions. The counter measures search activity only; it has no account connection, live map, or official reward feed."
+      },
+      {
+        "question": "Is chest counter worth it in Fortnite?",
+        "answer": "It is useful if your goal is to compare routes or understand how actively you searched during each match. It cannot improve the reward roll, locate a token, or confirm better odds. A consistent record can show which approach reaches more chests, but it cannot turn that result into a guaranteed outcome."
+      },
+      {
+        "question": "What is the best chest counter strategy in Fortnite?",
+        "answer": "Use the same counting rule in every match, record both openings and matches, and compare sessions with the chests-per-match measure. Treat routes as ways to reach more eligible chests, not as guaranteed token locations. Keep probability conclusions separate because an official per-chest chance has not been confirmed."
+      }
+    ],
+    "relatedSlugs": [
+      "fortnite-token-finder",
+      "fortnite-shop-token-locations",
+      "how-to-get-fortnite-shop-token"
+    ],
+    "lastReviewed": "2026-11-23"
   }
 ]
